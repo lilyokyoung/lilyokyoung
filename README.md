@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi my name is Yi Li : 
+I am currently pursuing a Master of Analytics in Finance at Massey University, with a strong interest in data-driven business insights. Adept at cross-functional collaboration, problem-solving, and transitioning into data analytics with technical skills in Python, SQL, R, and SAS, AI-Agent analytics.
 
 <!--
 **lilyokyoung/lilyokyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
