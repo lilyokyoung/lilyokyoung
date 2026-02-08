@@ -1,5 +1,7 @@
 ## Hi my name is Yi Li : 
-I am currently pursuing a Master of Analytics in Finance at Massey University, with a strong interest in data-driven business insights. Adept at cross-functional collaboration, problem-solving, and transitioning into data analytics with technical skills in Python, SQL, R, and SAS, AI-Agent analytics.
+I am a recent Master of Analytics graduate from Massey University with a strong interest in using data and AI to support real-world decision making. My work focuses on applied analytics, predictive modelling, and explainable AI. I am especially interested in building analytical solutions that combine technical modelling with practical business insights.
+
+
 [LinkedIn](https://www.linkedin.com/feed/)  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lilyokyoung&show_icons=true)
 
