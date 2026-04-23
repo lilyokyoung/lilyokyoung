@@ -1,5 +1,5 @@
 ## Hi my name is Yi Li : 
-I am a recent Master of Analytics graduate from Massey University with a strong interest in using data and AI to support real-world decision making. My work focuses on applied analytics, predictive modelling, and explainable AI. I am especially interested in building analytical solutions that combine technical modelling with practical business insights.
+I'm a recent Master of Analytics graduate from Massey University. My capstone project was an AI-powered property valuation platform for the Auckland housing market — built with Python, deployed on Azure, with machine learning models and SHAP explainability. I have 11 years of commercial experience in FMCG before moving into data analytics, so I tend to think about data problems from a business angle first.
 
 
 [LinkedIn](https://www.linkedin.com/feed/)  
